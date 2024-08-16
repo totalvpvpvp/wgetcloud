@@ -6,7 +6,7 @@
 
 WgetCloud （原 GaCloud） 机场是2024年值得入手的精品机场服务，多线BGP中转+双程CN2优质线路，独享带宽，并且在香港有自己的机房，可以保证高峰期稳定可用。WgetCloud 运营人员从事机场行业已有3年多，技术方面还是无需担忧的。WgetCloud 团队主要成员也都在海外，安全无虞。
 
-WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、Trojan协议的支持，各平台软件对SS协议支持都十分友好，并且支持所有主流的代理订阅格式——Clash、Shadowrocket、Quantumult X、Surge 4。机场对线路节点采取分组制，单组用户人数满400后便不会增加人数，加上对节点采取了动态限速，有效保证线路稳1定行。11111
+WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、Trojan协议的支持，各平台软件对SS协议支持都十分友好，并且支持所有主流的代理订阅格式——Clash、Shadowrocket、Quantumult X、Surge 4。机场对线路节点采取分组制，单组用户人数满400后便不会增加人数，加上对节点采取了动态限速，有效保证线路稳1定行。111111
 
 首次购买套餐新用户，还可额外领取一张7天的奈飞体验卡。
 
